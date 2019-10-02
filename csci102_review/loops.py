@@ -1,5 +1,4 @@
 
-
 def main():
     colors = ["red", "blue", "magenta", "indigo", "pink", "purple"]
 

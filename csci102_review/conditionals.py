@@ -4,6 +4,7 @@ def main():
     x = 4
     y = 2
 
+
     print("x == y", x == y)
     print('x != y', x != y)
     print('x < y', x < y)
@@ -18,5 +19,9 @@ def main():
     else:
         print('baz')
 
+
+    if x is True
+
+    x == true
 if __name__ == '__main__':
     main()

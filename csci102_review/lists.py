@@ -17,14 +17,14 @@ def main():
     programming_languages[3] = "Java"
     print(programming_languages)
 
-    # sort function in lists
+    # PREVIEW for next week: sort function in lists
     arr = [4, 6, 7, 8, 2, 4,2, 1, 5]
     arr.sort()
     print(arr)
 
     print()
 
-    # 2D array
+    # 2D lists
     two_d = [ [1,2,3], [2,4,6], [5, 7, 7]]
 
     # 2D accesses

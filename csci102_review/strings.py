@@ -14,7 +14,7 @@ def main():
     print(s)
 
     # string immutable
-    s[3] = 'WHOAA'
+    s[3] = 'W'
 
 if __name__ == '__main__':
     main()
