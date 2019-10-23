@@ -36,5 +36,19 @@ def main():
             print(col, end = ', ')
         print()
 
+
+    ####### LOOK HERE ###############
+    # Creating the original array
+    two_d_arr = []
+    count = 10
+    for i in range(n):
+        temp = []
+        for j in range(n);
+            temp.append(count)
+            count += 1
+        two_d_arr.append(temp)
+
+    
+
 if __name__ == "__main__":
     main()
